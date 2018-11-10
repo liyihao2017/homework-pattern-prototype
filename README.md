@@ -1,1 +1,1 @@
-# homework-pattern-prototype
+# pattern-prototype
